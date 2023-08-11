@@ -3,8 +3,8 @@ A game where the first player types a word and the second has to guess it.
 
 ***********************
 How to open:
-
-
+Use this path:
+"\Hangman-game\Game\bin\Debug\net6.0\Game.exe"
 ***********************
 ***********************
 How to play:
